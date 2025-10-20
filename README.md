@@ -1,3 +1,4 @@
+# I am not deployed the application on cloud server becasue of aws server isses today but that cicd file will work try your end if you get any doubt feel free reach out
 Nodejs-web application
 This repository contains helper scripts and a CI/CD workflow for building, publishing, and deploying a Node.js app to a remote server using Docker.
 
